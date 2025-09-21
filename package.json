@@ -1,0 +1,21 @@
+{
+  "name": "homeworkthree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigree/homeworkThree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigree/homeworkThree/issues"
+  },
+  "homepage": "https://github.com/arigree/homeworkThree#readme"
+}
